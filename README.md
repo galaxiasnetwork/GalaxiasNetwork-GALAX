@@ -1,3 +1,3 @@
-# GALAX
+# Galaxias Network (GALAX) Token 
 
-Galaxian Network (GALAX) Contract Source Code
+Galaxias Network (GALAX) Token Contract Source Code
